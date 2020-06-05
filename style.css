@@ -1,0 +1,183 @@
+//*.atext{
+    width: 50vw;
+    height:20vw;
+    background-color: yellowgreen;
+}*//
+
+/* nav bar elements */
+    
+nav{
+  width:100vw;
+  height: 5vw;
+  background-color: #f2f2f2;
+}
+
+ul{
+  margin:0vw;
+  padding:0vw;
+  overflow: hidden;
+  background-color: none;
+}
+
+li{
+  float:right;
+  list-style-type: none;
+  font-size: 2vw;
+}
+
+li a{
+  display:block;
+  color: #757575;
+  text-align: center;
+  padding: 1vw 2vw 0vw 0vw;
+  text-decoration: none;
+}
+
+li a:hover:not(.active){
+  background-color: none;
+  color: #b39a84;
+}
+
+.active{
+  background-color: none;
+  color: #b2e880;
+  font-weight:800;
+}
+
+
+
+head{
+    background:#f2f2f2;
+    }
+    
+    .mulitext{
+      font-family: 'Muli', sans-serif;
+    }
+    
+    .widetext{
+      letter-spacing: .5vw;
+      font-weight: bold;
+    }
+    
+    
+    main{
+      width:100vw;
+    }
+    
+    .topimage{
+      width:100vw;
+    }
+
+    .about{
+      font-weight: bold;
+      letter-spacing: .2vw;
+    }
+
+    
+    
+    /*body elements*/
+    /*hover elements*/
+    /*if I cant find all my drawings/images, delete xtra boxes and make other pieces full screen ALSO DONT FORGET THE ZJAIDEN ART THINGY*/
+    /*
+    main{
+      width:100vw;
+      background:#f2f2f2;  
+    }
+    
+    body{
+      width:100vw;
+      background:#f2f2f2;
+    }
+    
+    #homepagetitle{
+      text-align: center;
+      margin: 0vw 0vw 1vw 0vw;
+      font-weight: bolder;
+      color: #b39a84
+    }
+    
+    .titletext{
+      font-size: 3vw;
+    }
+    
+    
+    .container{
+      position: relative;
+      width: 30vw;
+      margin-bottom: 5vw;
+    }
+    
+    .image{
+      display: block;
+      width:30vw;
+    }
+    
+    .overlay{
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 30vw;
+      width: 30vw;
+      opacity: 0;
+      transition: 1s ease;
+      background-color: #b39a84;
+      }
+    
+    .container:hover .overlay{
+      opacity: 90%;
+    }
+    
+    .text{
+      color: white;
+      font-weight: bold;
+      font-size: 3.5vw; 
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      -webkit-transform: translate(-50%,-50%);
+      -ms-transform: translate(-50%,-50%);
+      transform: translate(-50%,-50%);
+      text-align: center;
+    }
+    
+    #fbox1{
+      float:left;
+    }
+    
+    #fbox2{
+      float:left;
+      margin-left:5vw;
+    }
+    
+    #fbox3{
+      float:right;
+    }
+    
+    #fbox4{
+      float:left;
+    }
+    
+    #fbox5{
+      float:left;
+      margin-left:5vw;
+    }
+    
+    #fbox6{
+      float:right;
+    }
+    
+    #fbox7{
+      float:left;
+    }
+    
+    #fbox8{
+      float:left;
+      margin-left:5vw;
+    }
+    
+    #fbox9{
+      float:right;
+    }
+    *//
